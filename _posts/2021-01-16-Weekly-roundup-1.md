@@ -11,13 +11,6 @@ categories:
 tags:
   - Weekly
 excerpt: "My weekly journal 01 - Setup my personal blog, Started using Notion, Read a small book and more"
-ogImage:
-  title: "Experimentor Weekly Journal - 01"
-  subtitle: ""
-  imageUrl: "https://plakhlani.github.io/assets/images/2021-01-16.jpg"
-  background: "url(https://example.com/blog-bg.jpg)"
-  fontColor: "rgb(0, 0, 0)"
-  fontSize: "120%"
 ---
 
 My weekly journal is series of blog posts where I share stories about my professional and personal work. This is my weekly Journal 01, Jan 16, 2021 and in this post I am going to share with you about:
