@@ -56,9 +56,3 @@ This was the first book of 20 that I am going to read as part of my [reading cha
 Too lazy to read this book? [Here is the useful summary of the book](https://www.sloww.co/ikigai-book/)
 
 See you next week!
-
-
-
-
-
-
