@@ -10,14 +10,14 @@ categories:
 - Weekly
 tags:
 - Weekly
-excerpt: "My weekly journal 06 - "
+excerpt: "My weekly journal 06 - ASMX to REST (Web API) and WCF to REST (Web API) migrations, Loss aversion, and Slow living"
 ---
 
 My weekly journal is series of blog posts where I share stories about my professional and personal work. This is my weekly Journal 065, Feb 21, 2021, and in this post, I am going to share with you about:
 
 1. ASMX to REST (Web API) and WCF to REST (Web API) migrations
 2. Loss aversion
-3. 
+3. Slow living 
 
 ### ASMX to REST (Web API) and WCF to REST (Web API) migrations
 [ASMX Services](https://docs.microsoft.com/en-us/troubleshoot/dotnet/csharp/write-web-service) used to be the only way to build web services in [Microsoft .net development](https://www.faciletechnolab.com/software-development-technology/microsoft-dotnet-or-donetcore-development). Developer used to write code in c# to support various business operations in the service. <code>GetWorkCenterList</code> or <code>GetWorkOrderList</code> etc. are simplest examples of such operations supported by asmx service. The asmx services were published in IIS, and was discovered through WSDL. In order to consume the service, you either generate a proxy through WSDL.exe if you are consuming it in [Microsoft .net development](https://www.faciletechnolab.com/software-development-technology/microsoft-dotnet-or-donetcore-development) or use language specific proxy generation tools in other programming. 
@@ -41,14 +41,9 @@ Later during the week, I also find another useful article on [loss aversion](htt
 
 Applying [game theory](https://en.wikipedia.org/wiki/Game_theory) is another helpful technique in many life situations if you can define your wins and loses clearly.
 
-### 
+### Slow Living
+Ever since I've read [Ikigai: The Japanese Secret to a Long and Happy Life, The Little Book of Lykke, Lagom: The Swedish Art of Balanced Living](https://www.goodreads.com/book/show/40534545-ikigai), I'm interested more into [Slow living](https://www.sloww.co/slow-living-101/) and discovering more about the same. 
 
-
-### 
-
-### 
-
-### 
-
+I'm taking regular morning walk since a month now (with some exception days ;)), trying to take small breaks and stay focused through weekly OKRs and trying to avoid parallel work and too much work as much as I can.
 
 **See you next week!**
