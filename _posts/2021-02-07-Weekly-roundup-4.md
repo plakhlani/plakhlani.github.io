@@ -1,6 +1,6 @@
 ---
 title: "Experimentor Weekly Journal - 04"
-date: 2021-01-31
+date: 2021-02-07
 image:
 header:
 teaser:
@@ -13,7 +13,7 @@ tags:
 excerpt: "My weekly journal 04 - Converting ASPX to Web API, Outlook rules, Interviews, KGF and more"
 ---
 
-My weekly journal is series of blog posts where I share stories about my professional and personal work. This is my weekly Journal 04, Feb 31, 2021, and in this post, I am going to share with you about:
+My weekly journal is series of blog posts where I share stories about my professional and personal work. This is my weekly Journal 04, Feb 7, 2021, and in this post, I am going to share with you about:
 
 1. Converting legacy ASMX/WCF services to Web API.
 2. Outlook rules to forward emails to another account.
