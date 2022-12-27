@@ -29,6 +29,7 @@ logo                     : # path of logo image to display in the masthead, e.g.
 masthead_title           : "The Good Engineers" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 100
+
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
@@ -89,6 +90,7 @@ analytics:
   google:
     tracking_id          : UA-6582626-1
     anonymize_ip         : # true, false (default)
+    measurement_id           : "G-Z87VBEWPPE"
 
 
 # Site Author
