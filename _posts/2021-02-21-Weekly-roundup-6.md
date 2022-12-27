@@ -1,5 +1,5 @@
 ---
-title: "Experimentor Weekly Journal - 06"
+title: "My Weekly Journal - 06"
 date: 2021-02-14
 image:
 header:
