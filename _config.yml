@@ -88,9 +88,9 @@ social:
 analytics:
   provider               : "google" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : UA-6582626-1
+    #tracking_id          : UA-6582626-1
     anonymize_ip         : # true, false (default)
-    measurement_id           : "G-Z87VBEWPPE"
+    measurement_id       : G-Z87VBEWPPE
 
 
 # Site Author
