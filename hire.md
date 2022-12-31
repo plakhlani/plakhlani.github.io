@@ -5,7 +5,7 @@ excerpt: "Hire Prashant Lakhlani"
 toc: false
 ---
 
-I'm Prashant Lakhlani is Founder & CEO of [Facile Technolab](https://www.faciletechnolab.com). 
+I'm Prashant Lakhlani Founder & CEO of [Facile Technolab](https://www.faciletechnolab.com). 
 
 You can hire my team for bringing excellent results in:
 - SaaS Development
