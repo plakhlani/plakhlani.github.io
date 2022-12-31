@@ -4,7 +4,7 @@ title: "About Me"
 excerpt: "About Prashant Lakhlani"
 toc: false
 ---
-##About The Good Engineers
+## About The Good Engineers
 
 The Good Engineers blog is my new Jorney of contributing back to the community of software engineers who helped me a lot in many ways to become who I am.
 
@@ -12,7 +12,7 @@ After spending more than 15 years in the journey of becoming good engineering an
 
 I choose the title The Good Engineers because I'm not alone now in this journey. I have a team, friends, and entire community who belongs or want to be part of the The Good Engineers.
 
-##About me
+## About me
 
 I completed my Computer Engineering in 2006 and decided to become a good software engineer. So, I was interested in answering my question, "How to become a good software engineer?"
 
