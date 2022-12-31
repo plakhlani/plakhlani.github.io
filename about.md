@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About Me"
+title: "About"
 excerpt: "About Prashant Lakhlani"
 toc: false
 ---
