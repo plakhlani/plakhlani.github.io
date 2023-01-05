@@ -11,6 +11,7 @@ categories:
 tags:
 - News
 excerpt: "Experimentor is now The Good Engineers"
+author: prashant_lakhlani
 ---
 I started Experimentor to experiment and create weekly journals. I posted for almost two months there, and then I was not able to keep up with the journaling.
 
