@@ -13,7 +13,7 @@ tags:
 excerpt: "Are planning to start your Enterprise REST API project in .NET tech-stack in 2023? If yes, we have recommend you consider checking this 5 most important things when you hire your .NET Core Developers or Team."
 ---
 
-Are planning to start your [Enterprise REST API](https://www.faciletechnolab.com/software-development-technology/dot-net-core-rest-api-development) project in .NET Core in 2023? If yes, we have recommend you consider checking this 5 most important things when you hire your .NET Core Developers or Team.
+Are planning to start your [Enterprise REST API](https://www.faciletechnolab.com/software-development-technology/dot-net-core-rest-api-development) project in .NET Core in 2023? If yes, we recommend you consider checking this 5 most important skills when you [hire your .NET Core Developers or Team](https://www.faciletechnolab.com/software-development-technology/microsoft-dotnet-or-dotnetcore-development).
 
 ## 1. Communication 📱
 Good written and verbal communication skills will be needed for requirement understanding, asking questions, reporting status and interacting with other team members.
@@ -34,7 +34,7 @@ Writing **unit tests** are most important as it will repay once you grow over th
 [Enterprise REST API](https://www.faciletechnolab.com/software-development-technology/dot-net-core-rest-api-development) development team requires many other skills, frameworks, tools, best practices, guidelines to make it successful.
 
 > ### Looking to build your Enterprise REST API development strategy?
-> [**Connect with me**]("mailto:lakhlaniprashant+inquiry@gmail.com") to get better clarity on your strategy!
+> [**Connect with me**]("mailto:lakhlaniprashant+inquiry@gmail.com") to get better clarity on your Enterprise REST API Development Strategy!
 
 
 Feel like I missed anything in the list? Add what’s missed by commenting below 👇🏼
