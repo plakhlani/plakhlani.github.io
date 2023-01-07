@@ -42,7 +42,38 @@ layout: default
         {% endif %}
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
-      </section>
+        <div class="highlight"  >
+        <h4 class="page__share-title" style="margin-top:1em; margin-left:0 !important;">Subscribe</h4>
+        <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/embed/v2.js"></script>
+        <script>
+          hbspt.forms.create({
+            region: "na1",
+            portalId: "23343200",
+            formId: "c331a703-2e77-4e9d-89dc-882084df761f"
+          });
+
+          function clearLink() {
+            if($("#hs-form-iframe-0")) {
+              $("#hs-form-iframe-0").contents().find('.hubspot-link__container').remove();
+            }
+            else {
+              setTimeout(clearLink,1000);
+            }            
+          }
+          setTimeout(clearLink,3000);
+        </script>
+        <style type="text/css">
+          .highlight {               
+            margin: 1.7em 0;
+            padding: 1em;
+            line-height: 1.4;
+            background-color: #e8e8e8;
+            border: 1px solid #d3d3d3;
+            border-radius: 3px;
+          }
+        </style>        
+        </div>
+        </section>
 
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
