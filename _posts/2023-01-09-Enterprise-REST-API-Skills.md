@@ -18,8 +18,8 @@ Are planning to start your [Enterprise REST API](https://www.faciletechnolab.com
 ## 1. Communication 📱
 Good written and verbal communication skills will be needed for requirement understanding, asking questions, reporting status and interacting with other team members.
 
-## 2. RESTfull API best practices 📃
-Understanding and following RESTFull API best practices will make your APIs consistent and obvious to the consumers. Developers knowing these practices will do things in right way the very first time.
+## 2. RESTful API best practices 📃
+Understanding and following RESTFul API best practices will make your APIs consistent and obvious to the consumers. Developers knowing these practices will do things in right way the very first time.
 
 ## 3. Securing APIs 🔐
 Good understanding of how to secure the APIs is the must have skills not only for a REST API developer but any developer as you must implement security best practices from day 1 of your development.
