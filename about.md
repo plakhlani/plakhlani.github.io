@@ -6,9 +6,9 @@ toc: false
 ---
 ## About The Good Engineers
 
-The Good Engineers blog is my new Jorney of contributing back to the community of software engineers who helped me a lot in many ways to become who I am.
+[The Good Engineers](https://plakhlani.in/) blog is my new Jorney of contributing back to the community of software engineers who helped me a lot in many ways to become who I am.
 
-After spending more than 15 years in the journey of becoming good engineering and helping others with the same, now is the time to share the thoughts related to good software engineering and the good engineers! 
+After spending more than 18 years in the journey of becoming good engineering and helping others with the same, now is the time to share the thoughts related to good software engineering and the good engineers! 
 
 I choose the title The Good Engineers because I'm not alone now in this journey. I have a team, friends, and entire community who belongs or want to be part of the The Good Engineers.
 
@@ -30,6 +30,6 @@ From 2014 till now, I'm playing roles like Managing Director, Founder, CEO.
 
 My journey of becoming a good software engineers is still on. 
 
-These days, I'm Founder and CEO of [Facile Technolab](https://www.faciletechnolab.com) where we build innovative products and provide excellent services to the clients across the world.
+These days, I'm Founder and CEO of [Facile Technolab](https://www.faciletechnolab.com?utm_source=referral&utm_medium=plakhlani&utm_campaign=2024&utm_id=2024&utm_term=blogs&utm_content=blogs) where we build innovative products and provide excellent services to the clients across the world.
 
 🥂 Chears!
