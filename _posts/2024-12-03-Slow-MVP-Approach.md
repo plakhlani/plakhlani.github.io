@@ -10,7 +10,7 @@ categories:
   - MVP
 tags:
   - MVP
-excerpt: "In the startup world, the mantra "move fast and break things" has long been the guiding principle. However, many entrepreneurs challenge this conventional wisdom, advocating for a more deliberate and sustainable approach to product development: the Slow MVP."
+excerpt: "In the startup world, the mantra 'move fast and break things' has long been the guiding principle. However, many entrepreneurs challenge this conventional wisdom, advocating for a more deliberate and sustainable approach to product development: the Slow MVP."
 ---
 In the startup world, the mantra "move fast and break things" has long been the guiding principle. However, many entrepreneurs challenge this conventional wisdom, advocating for a more deliberate and sustainable approach to product development: the Slow MVP.
 
