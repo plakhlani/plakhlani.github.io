@@ -1,4 +1,3 @@
-
 ---
 title: "Introducing Brick SaaS Starter Kit - Launch SaaS Products Faster"
 date: 2024-12-03
