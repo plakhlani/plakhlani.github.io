@@ -1,11 +1,11 @@
 ---
 title: "The Slow Lane to SaaS Success - A Deep Dive into the Slow SaaS MVP Approach"
 date: 2024-12-03
-image: /assets/images/slow-mvp-apprach.jpeg
+image: /assets/images/slow-mvp-approach.jpeg
 header:
   teaser: 
   thumbnail: 
-  og_image: /assets/images/slow-mvp-apprach.jpeg
+  og_image: /assets/images/slow-mvp-approach.jpeg
 categories:
   - MVP
 tags:
