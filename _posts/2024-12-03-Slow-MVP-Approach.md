@@ -12,7 +12,7 @@ tags:
   - SaaS MVP
 excerpt: "In the startup world, the mantra 'move fast and break things' has long been the guiding principle. However, many entrepreneurs challenge this conventional wisdom, advocating for a more deliberate and sustainable approach to product development: the Slow SaaS MVP."
 ---
-![image](/assets/images/slow-mvp-apprach.jpeg)
+![image](/assets/images/slow-mvp-approach.jpeg)
 
 In the startup world, the mantra "move fast and break things" has long been the guiding principle. However, many entrepreneurs challenge this conventional wisdom, advocating for a more deliberate and sustainable approach to product development: the Slow SaaS MVP.
 
