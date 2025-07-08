@@ -72,10 +72,10 @@ naver_site_verification  :
 # Social Sharing
 twitter:
   username               : plakhlani
-facebook:
-  username               : prashant.lakhlani
-  app_id                 :
-  publisher              :
+#facebook:
+  #username               : 
+  #app_id                 :
+  #publisher              :
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -98,7 +98,7 @@ author:
   name             : "Prashant Lakhlani"
   avatar           : /assets/images/logo.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : #"Experimenting | Learning | Mentoring | Sharing"
-  location         : "Ahmedabad, Gujarat, India"
+  location         : "India"
   email            : lakhlaniprashant+blog@gmail.com
   links:
     - label: "Email"
@@ -109,13 +109,7 @@ author:
       url: "https://www.faciletechnolab.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/plakhlani"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/prashant.lakhlani"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/plakhlani"
+      url: "https://twitter.com/plakhlani"  
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/lakhlaniprashant/"
@@ -131,12 +125,6 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/plakhlani"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/prashant.lakhlani"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/plakhlani"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/lakhlaniprashant/"
@@ -220,7 +208,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-
+  - jekyll-seo-tag
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
