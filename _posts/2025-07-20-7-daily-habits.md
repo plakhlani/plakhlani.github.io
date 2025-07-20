@@ -7,10 +7,10 @@ header:
   thumbnail: /assets/images/7 Daily Habits of Good Software Engineers - Prashant Lakhlani.png
   og_image: /assets/images/7 Daily Habits of Good Software Engineers - Prashant Lakhlani.png
 categories:
-  - Software Engineering
+  - Software-Engineering
 tags:
   - Productivity
-  - Software Engineering
+  - Software-Engineering
   - Habits
 excerpt: "After working with hundreds of software engineers over two decades, here are the 7 daily habits I see in engineers who consistently ship quality work and grow fast."
 ---
