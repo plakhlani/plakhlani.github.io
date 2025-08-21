@@ -23,7 +23,7 @@ Keeping on top of .NET updates—and growing your engineering edge—doesn’t h
 ## Foundation .NET & C# Newsletters
 
 1. [C# Digest](https://csharpdigest.netlify.app/ "C# Digest" rel="nofollow") (Weekly) — Hand-picked C# and .NET insights, with summaries that cut straight to the point.  
-2. [.NET News](https://dotnetnews.co/ "DotNet News" rel="nofollow") (Daily) — Broad coverage from C#, Azure, ASP.NET, and more. Great for daily reading.  
+2. [.NET News](https://dotnetnews.co/ "DotNet News" rel="dofollow") (Daily) — Broad coverage from C#, Azure, ASP.NET, and more. Great for daily reading.  
 3. [.NET Weekly](https://www.milanjovanovic.tech/newsletter "DotNet Weekly" rel="nofollow") (Weekly) — Real-world .NET guidance: clean architecture, EF tips, and more.  
 4. [C# Insights](https://csharpdigest.netlify.app/insights "C# Insights" rel="nofollow") (Weekly) — Focused on language updates, performance tips, and tooling hacks.  
 5. [ASP.NET Core News](https://www.aspnetweekly.net/ "ASP.NET Weekly" rel="nofollow") (Weekly) — Deep into web development: Blazor, APIs, SignalR, and more.  
