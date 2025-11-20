@@ -39,7 +39,7 @@ Website: [faciletechnolab.com](https://www.faciletechnolab.com/?ref=plakhlani)
 - Deep Azure, Blazor, ASP.NET, and AI experience with full compliance audits
 - Case Study: Dental Diagnostic Management System MVP deployed in 6 months with AI Integration, security, cloud-native, and robust multi-tenant architecture.
 
->“Facile Technolab is the go-to partner for hospitals and healthtech startups needing speed, compliance, and innovation.”
+> “Facile Technolab is the go-to partner for hospitals and healthtech startups needing speed, compliance, and innovation.”
 > Learn more: [Facile Technolab Healthcare Expertise](https://www.faciletechnolab.com/industries/healthcare/ "Facile Technolab Healthcare Expertise")
 ---
 ### 2. Innowise Group
