@@ -1,5 +1,5 @@
 ---
-title: "Introducing Brick SaaS Starter Kit - Launch SaaS Products Faster"
+title: "Introducing Brick ASP.NET Core Starter Kit/Boilerplate - Launch Your Products Faster"
 date: 2024-12-03
 image: /assets/images/Brick-full-hz.png
 header:
@@ -9,23 +9,23 @@ header:
 categories:
   - StarterKit
 tags:
-  - StarterKit
-excerpt: "Brick SaaS Starter Kit - Launch SaaS Products Faster"
+  - StarterKit, boilerplate
+excerpt: "Brick saves you from weeks of time when starting .NET projects from scratch by giving you full source code of the boilerplate features."
 ---
 ![image](/assets/images/Brick-full-hz.png)
 
-In the fast-paced world of SaaS software development, building a successful SaaS application requires a solid foundation and a streamlined development process. To help developers and entrepreneurs achieve this, we are thrilled to announce the launch of the [Brick SaaS Starter Kit](https://brick.faciletechnolab.com).
+In the fast-paced world of SaaS software development, building a successful SaaS application requires a solid foundation and a streamlined development process. To help developers and entrepreneurs achieve this, we are thrilled to announce the launch of the [Brick .NET Starter Kit](https://www.brickstarter.net).
 
-[Brick SaaS Starter Kit](https://brick.faciletechnolab.com) is for ambitious entrepreneur with a brilliant idea for a SaaS application. Instead of the thought of building everything from scratch, [Brick SaaS Starter Kit](https://brick.faciletechnolab.com) helps you be months ahead by utilizing most common features ready for you.
+[Brick .NET Starter Kit](https://www.brickstarter.net) is for ambitious entrepreneur with a brilliant idea for a SaaS application. Instead of the thought of building everything from scratch, [Brick .NET Starter Kit](https://www.brickstarter.net) helps you be months ahead by utilizing most common features ready for you.
 
-## What is the Brick SaaS Starter Kit?
-The [Brick SaaS Starter Kit](https://brick.faciletechnolab.com) is a ready to use framework designed to accelerate the development of scalable and secure SaaS applications. It leverages the power of ASP.NET Core for the backend and React+Next.js or Angular for the frontend, providing a robust and flexible foundation for your next big project.
+## What is the Brick .NET Starter Kit?
+The [Brick .NET Starter Kit](https://www.brickstarter.net) is a ready to use framework designed to accelerate the development of scalable and secure SaaS applications. It leverages the power of ASP.NET Core for the backend and React+Next.js or Angular for the frontend, providing a robust and flexible foundation for your next big project.
 
 ## Built for Early-Stage SaaS Founders
-Brick is built with love by [Facile Technolab](https://www.faciletechnolab.c). We have years of experience in delivering many SaaS applications from scratch. We understand the challenges faced by early-stage SaaS founders like you. You need to move fast, validate your concept, and get your product into the hands of users quickly. Brick empowers you to do just that by providing a pre-built SaaS foundation equipped with the most essential features for any successful SaaS application. This translates to significant time and cost savings, allowing you to focus on what matters most - developing your unique value proposition and bringing your vision to life.
+Brick is built with love by [Facile Technolab](https://www.faciletechnolab.com). We have years of experience in delivering many SaaS applications from scratch. We understand the challenges faced by early-stage SaaS founders like you. You need to move fast, validate your concept, and get your product into the hands of users quickly. Brick empowers you to do just that by providing a pre-built SaaS foundation equipped with the most essential features for any successful SaaS application. This translates to significant time and cost savings, allowing you to focus on what matters most - developing your unique value proposition and bringing your vision to life.
 
 ## Essential Features Out of the Box
-[Brick SaaS Starter Kit](https://brick.faciletechnolab.com) equips you with the most common must-have set of features that are crucial for any SaaS application:
+[Brick .NET Starter Kit](https://www.brickstarter.net) equips you with the most common must-have set of features that are crucial for any SaaS application:
 
 - **Tenant Management**: Effortlessly manage your customer base with built-in tenant management functionalities.
 - **Authentication**: Offer your users a variety of convenient login options, including email authentication, Azure authentication, and social authentication.
@@ -39,4 +39,4 @@ Brick is built with love by [Facile Technolab](https://www.faciletechnolab.c). W
 
 ## Brick - SaaS Starter Kit is available for early access to limited users only
 
-[Brick SaaS Starter Kit](https://brick.faciletechnolab.com) has been tested with 3 projects by the team for releasing SaaS products for our clients. It's not fully available as we are still working on end user documentation. But we are taking early-access for limited users. Visit [Brick SaaS Starter Kit](https://brick.faciletechnolab.com) website and grab your early access offer today!
+[Brick .NET Starter Kit](https://www.brickstarter.net) has been tested with 3 projects by the team for releasing SaaS products for our clients. It's not fully available as we are still working on end user documentation. But we are taking early-access for limited users. Visit [Brick .NET Starter Kit](https://www.brickstarter.net) website and grab your early access offer today!
