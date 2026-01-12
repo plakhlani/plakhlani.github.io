@@ -1,6 +1,6 @@
 ---
 title: "Zorgdomein Integration: A Guide to Secure .NET & Azure Architecture"
-date: 2026-01-23
+date: 2026-01-12
 image: /assets/images/Zorgdomain-FHIR-Integration.png
 header:
   teaser: 
