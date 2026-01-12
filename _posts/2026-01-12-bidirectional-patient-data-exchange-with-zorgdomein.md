@@ -65,4 +65,5 @@ If you treat integrations like a secondary task, you will inherit technical debt
 Are you currently planning an integration with a national healthcare portal or struggling with FHIR-based data migrations?
 
 Through Facile Technolab, I help organizations navigate these exact complexities on the Microsoft stack. Let’s connect and discuss how we can turn your compliance hurdles into a scalable technical foundation.
+
 --
