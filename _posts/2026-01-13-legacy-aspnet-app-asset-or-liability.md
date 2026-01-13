@@ -1,6 +1,6 @@
 ---
-title: "Zorgdomein Integration: A Guide to Secure .NET & Azure Architecture"
-date: 2026-01-12
+title: "Is Your Legacy ASP.NET App a Business Asset or a Liability?"
+date: 2026-01-13
 image: /assets/images/legacy software creating hurdles for business growth.jpg
 header:
   teaser: 
