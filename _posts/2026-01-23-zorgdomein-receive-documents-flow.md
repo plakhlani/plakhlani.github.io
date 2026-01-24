@@ -26,11 +26,11 @@ The Zorgdomein Receive Documents flow is a certificate-secured, server-to-server
 
 The Zorgdomein Receive Documents flow is a secure inbound integration pattern in which Zorgdomein delivers clinical documents directly to an external system that has been pre-approved through certificate exchange.
 
-In this flow, the receiving system must authenticate Zorgdomein using client certificates, validate the incoming message, process the document according to internal rules, and return a protocol-level confirmation. The correctness of this sequence—not business logic—determines whether the integration behaves reliably in production.
+In this flow, the receiving system must authenticate Zorgdomein using client certificates, validate the incoming message, process the document according to internal rules, and return a protocol-level confirmation. The correctness of this sequence not business logic determines whether the integration behaves reliably in production.
 
 ## Introduction
 
-Zorgdomein integrations often fail not because of document parsing or data models, but because trust is implemented incorrectly. Before a single document can be processed, the receiving system must be able to prove—cryptographically—that the request originates from Zorgdomein.
+Zorgdomein integrations often fail not because of document parsing or data models, but because trust is implemented incorrectly. Before a single document can be processed, the receiving system must be able to prove cryptographically that the request originates from Zorgdomein.
 
 The Receive Documents flow is therefore not just an API endpoint. It is a trust boundary. Zorgdomein initiates the connection, presents its client certificate, and expects the receiving system to validate that identity before allowing the request to enter the application layer.
 
@@ -143,7 +143,7 @@ These issues are architectural, not technical, and are best addressed through cl
 
 The Zorgdomein Receive Documents flow is fundamentally about trust, not transport. Certificates are not an implementation detail; they are the contract that defines who is allowed to send documents into your system.
 
-For CTOs and engineering managers, the key takeaway is clear: design the system so that identity is proven early and unequivocally, and structure the receive flow around explicit stages—receive, validate, process, confirm.
+For CTOs and engineering managers, the key takeaway is clear: design the system so that identity is proven early and unequivocally, and structure the receive flow around explicit stages: receive, validate, process, confirm.
 
 When certificate validation gates the flow and responsibilities are clearly separated, the integration becomes predictable, maintainable, and resilient under real operational conditions.
 
