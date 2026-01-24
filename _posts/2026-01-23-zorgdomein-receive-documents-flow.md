@@ -22,15 +22,11 @@ redirect_from:
 ## TL;DR
 The Zorgdomein Receive Documents flow is a certificate-secured, server-to-server integration where your system acts as a trusted document endpoint. A correct implementation depends on strict certificate validation, a clearly defined receive–validate–process–confirm sequence, and disciplined separation of responsibilities. This article explains how to architect that flow in .NET from a practical, implementation-focused perspective.
 
----
-
 ## What Is the Zorgdomein Receive Documents Flow?
 
 The Zorgdomein Receive Documents flow is a secure inbound integration pattern in which Zorgdomein delivers clinical documents directly to an external system that has been pre-approved through certificate exchange.
 
 In this flow, the receiving system must authenticate Zorgdomein using client certificates, validate the incoming message, process the document according to internal rules, and return a protocol-level confirmation. The correctness of this sequence—not business logic—determines whether the integration behaves reliably in production.
-
----
 
 ## Introduction
 
@@ -39,8 +35,6 @@ Zorgdomein integrations often fail not because of document parsing or data model
 The Receive Documents flow is therefore not just an API endpoint. It is a trust boundary. Zorgdomein initiates the connection, presents its client certificate, and expects the receiving system to validate that identity before allowing the request to enter the application layer.
 
 This article focuses exclusively on the Receive Documents flow and explains how to design certificate exchange, certificate validation, and the internal receive–validate–confirm lifecycle in a .NET-based system.
-
----
 
 ## Role of the Receiving System in the Receive Documents Flow
 
@@ -56,8 +50,6 @@ Your system is responsible for:
 
 These responsibilities must be explicitly separated at the architectural level. Treating this flow as a single request handler increases coupling and makes failures harder to reason about.
 
----
-
 ## Certificate Exchange: Establishing Trust Before Runtime
 
 Trust between your system and Zorgdomein is established **before** any documents are exchanged.
@@ -69,8 +61,6 @@ This certificate exchange process typically involves:
 - Server-side configuration to require and validate client certificates  
 
 The architectural takeaway is simple: certificate exchange is an onboarding activity, but certificate **enforcement** is a runtime responsibility. Your system must reject any request that does not satisfy the agreed trust conditions.
-
----
 
 ## How the Receiving System Verifies Zorgdomein Using Certificates
 
@@ -87,12 +77,9 @@ Only after these checks pass should the request be forwarded to the application 
 
 This is a critical architectural principle: **identity validation must happen before parsing, validation, or processing**.
 
----
-
 ## End-to-End Receive Documents Architecture
 
 The following sequence shows the complete Receive Documents flow, starting from certificate validation and ending with confirmation back to Zorgdomein.
-
 
 ![image](/assets/images/zorgdomein-receive-document-flow-the-good-engineers.png)
 
