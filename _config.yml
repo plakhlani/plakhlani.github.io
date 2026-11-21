@@ -16,17 +16,17 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "The Good Engineers"
+title                    : "Prashant Lakhlani"
 title_separator          : " | "
-subtitle                 : "Talks about the good software engineering and engineers"# site tagline that appears below site title in masthead
-name                     : "The Good Engineers"
-description              : "Talks about the good software engineering and engineers"
+subtitle                 : "Custom software for small manufacturers that recovers lost revenue inside 90 days, without stopping production."# site tagline that appears below site title in masthead
+name                     : "Prashant Lakhlani"
+description              : "I build custom systems for small manufacturers to fix slow quoting, manual tracking and compliance gaps. My clients recover 10 to 20 per cent of lost revenue inside 90 days, without stopping production. No off-the-shelf tools, no long IT projects. Message me on LinkedIn with the word SHOP."
 url                      : "https://plakhlani.in"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "plakhlani/plakhlani.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "The Good Engineers" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Prashant Lakhlani" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 100
 

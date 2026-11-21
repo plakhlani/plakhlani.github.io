@@ -1,15 +1,17 @@
 ---
 permalink: /about/
-title: "About"
-excerpt: "About Prashant Lakhlani"
+title: "Custom Software for Small Manufacturers | Australia"
+excerpt: "I build custom systems for small manufacturers to fix slow quoting, manual tracking and compliance gaps. Results inside 90 days, no disruption to production."
 toc: false
 ---
-## About me
+# Custom Software for Small Manufacturers Who Want Their Time and Profit Back
 
-Prashant Lakhlani is a Microsoft technology specialist with extensive experience building secure, scalable web applications for the industries in US. With deep expertise in ASP.NET and  Azure architecture, Prashant helps healthcare, financial services, and other types of organizations modernize their technology infrastructure while maintaining the highest standards of security and regulatory compliance.
+I build custom software for small manufacturers who are stuck with messy operations, unreliable quoting, compliance gaps and systems that do not connect. I have worked inside businesses like these, so I know how to fix the problem properly.
 
-Through The Good Engineers, Prashant provides consulting services for healthcare IT leaders, developers, and organizations looking to build robust, compliant solutions using Microsoft technologies.
+My work helps manufacturing shop owners recover 10 to 20 per cent of revenue lost to inefficient workflows and manual tracking, inside 90 days. I audit your operations, design a custom system around how you already work, and deploy it without disrupting production. There are no off-the-shelf tools and no long IT projects. More than ten manufacturers have used this approach to measurably cut costs and grow profit within one quarter.
 
-He is active member of [.NET Foundation](https://dotnetfoundation.org/) and Founder of [Facile Technolab](https://www.faciletechnolab.com?utm_source=referral&utm_medium=plakhlani&utm_campaign=2024&utm_id=2024&utm_term=blogs&utm_content=blogs).
+Recent work includes helping an Australian HVAC reseller cut quote time from 15 days to 1 day, and building a custom system that helps an Australian precision component manufacturer run three operations efficiently in all areas. I also led a team that delivered an end-to-end compliance product for a medical manufacturing startup, which secured funding, and extended the software of a US pharma manufacturing SaaS company to meet its clients' expectations. For a US founder, I helped speed up an MVP and onboard first users.
 
-🥂 Chears!
+The owners I work with usually want the same things: faster quotes, clearer job status, fewer remakes, records they can produce quickly, and more of their own time back. I focus on one costly problem at a time, prove it works, and then move to the next.
+
+On this site I share practical guides and honest opinions on quoting, job tracking, spreadsheets, ERPs, compliance and hiring. If you want to know what is slowing your shop down, send me a message on LinkedIn with the word SHOP. I will reply with how I would fix it.
